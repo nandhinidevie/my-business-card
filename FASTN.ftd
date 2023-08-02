@@ -5,7 +5,7 @@ favicon: /-/nandhinidevie.github.io/my-business-card/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/karma-typography
 -- fastn.dependency: fastn-community.github.io/business-card
 -- fastn.dependency: fastn-community.github.io/forest-cs
 
