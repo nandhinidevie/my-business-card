@@ -10,4 +10,15 @@ email: nandhinidevi.elumalai06@gmail.com
 logo: $assets.files.assets.Logo (1).png
 website: https://bit.ly/3ZbAHNv
 
+
+-- business-card.details: John Doe
+company-name: John Doe Pvt. Ltd.
+title: Software Developer
+phone-no: +91 12345 99999
+email: john@johndoe.com
+address: 123, Block No. A-123, Times Sqaure, Bangalore - 123456
+logo: $assets.files.assets.ipsum-logo.svg
+company-slogan: If you can type you can code
+website: www.johndoe.com
+
 -- end: ds.page
